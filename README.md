@@ -1,7 +1,7 @@
-### Iwebp
+# Iwebp
 ## A simple python program that uses your ip webcam as a pc webcam
 
-# _ -REQUIREMENTS: _ 
+### _-REQUIREMENTS:_ 
   -Python:
    -cv2
    -numpy
